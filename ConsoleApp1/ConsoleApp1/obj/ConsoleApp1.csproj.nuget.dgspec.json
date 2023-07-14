@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Csharp\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Csharp\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Csharp\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Csharp\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Csharp\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Programas de Programacion\\Herramienta\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
