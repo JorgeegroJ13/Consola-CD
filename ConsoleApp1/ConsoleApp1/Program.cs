@@ -6,8 +6,8 @@ namespace ConceptosBasicos
     {
         static void Main(string[] args)
         {
-            int year = 20;
-            Console.WriteLine("hola mundo!"+year);
+            
+            Console.WriteLine("hola mundo");
             Console.ReadLine();
         }
     }
