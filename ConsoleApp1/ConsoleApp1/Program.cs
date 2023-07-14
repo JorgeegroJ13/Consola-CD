@@ -6,7 +6,7 @@ namespace ConceptosBasicos
     {
         static void Main(string[] args)
         {
-            
+            int yars = 21;
             Console.WriteLine("hola mundo");
             Console.ReadLine();
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programas de Programacion\\archivos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Programas de Programacion\\archivos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programas de Programacion\\archivos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Programas de Programacion\\archivos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "E:\\Programas de Programacion\\archivos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Programas de Programacion\\archivos\\Consola-CD\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Programas de Programacion\\Herramienta\\NuGetPackages"
