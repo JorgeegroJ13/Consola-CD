@@ -9,6 +9,7 @@ namespace ConceptosBasicos
             int yars = 21;
             Console.WriteLine("hola mundo");
             Console.ReadLine();
+            string nombre = "Jorge";
         }
     }
 }
